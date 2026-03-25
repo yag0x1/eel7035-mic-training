@@ -1,26 +1,3 @@
-# eel7035-mic-training
-PhD Teaching Training Internship repository: Code examples and supplementary material to prepare me for the EEL7035 - Microprocessors and Microcontrollers course at UFSC.
-
-## Introduction
-
-The RISC-V architecture is experiencing a moment of strong growth in the industry, expanding its application from small embedded systems to servers, with performance levels that are already competing head-to-head with ARM and x86 architectures. As my advisor rightly points out: "RISC-V is the future."
-
-The great appeal of this ISA is its open-source nature, which eliminates licensing costs and enables much more affordable end products. In addition to this, its structure is inherently simpler than legacy architectures and features robust documentation, making the learning curve much smoother.
-
-This promising architecture is an opportunity for students to prepare for what could be a strong market demand in the future.
-
-## Table of Contents
-* [1. RARS Simulations](1.rars-simulations/README.md)
-* [2. Ripes Simulations](2.ripes-simulations/README.md)
-* [3. ESP32-C3 Learning](3.esp32c3-learning/README.md)
-
-
-
-
-
-
-
-
 # EEL7035 Microprocessors and Microcontrollers Training
 
 This repository contains code examples and supplementary material developed for my Ph.D. Teaching Training Internship associated with the EEL7035 - Microprocessors and Microcontrollers course at the Federal University of Santa Catarina (UFSC).
