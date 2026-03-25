@@ -18,11 +18,11 @@ This architecture presents a valuable opportunity for academic study, preparing 
 
 ---
 
-## Tools and Setup
+## Tools 
 
 The following tools are utilized in this repository for simulation and development.
 
-### Simulators and Web Tools
+### Simulators 
 
 * **RARS:** [GitHub Repository](https://github.com/TheThirdOne/rars)
 * **Ripes:** [GitHub Repository](https://github.com/mortbopet/Ripes)
@@ -31,29 +31,5 @@ The following tools are utilized in this repository for simulation and developme
 ### ESP-IDF Framework
 
 The official Espressif IoT Development Framework is required for ESP32-C3 development. Official documentation can be found [here](https://docs.espressif.com/projects/esp-idf/en/v5.3/esp32c3/get-started/linux-macos-setup.html).
-
-#### Quick Installation (Debian/Ubuntu-based Linux)
-
-**1. Install prerequisites:**
-```bash
-sudo apt-get install git wget flex bison gperf python3 python3-pip python3-venv cmake ninja-build ccache libffi-dev libssl-dev dfu-util libusb-1.0-0
-```
-
-Quick Installation:
-
-```
-sudo apt-get install git wget flex bison gperf python3 python3-pip python3-venv cmake ninja-build ccache libffi-dev libssl-dev dfu-util libusb-1.0-0
-```
-
-```
-mkdir -p ~/esp
-cd ~/esp
-git clone -b v5.3 --recursive https://github.com/espressif/esp-idf.git
-```
-
-```
-cd ~/esp/esp-idf
-./install.sh esp32c3
-```
 
 
