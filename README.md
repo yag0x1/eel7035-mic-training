@@ -12,9 +12,9 @@ This architecture presents a valuable opportunity for academic study, preparing 
 
 ## Table of Contents
 
-1. [RARS Simulations](./1.rars-simulations/README.md)
-2. [Ripes Simulations](./2.ripes-simulations/README.md)
-3. [ESP32-C3 Learning](./3.esp32c3-learning/README.md)
+1. [RARS Simulations](./1.rars-simulations)
+2. [Ripes Simulations](./2.ripes-simulations)
+3. [ESP32-C3 Learning](./3.esp32c3-learning)
 
 ---
 
